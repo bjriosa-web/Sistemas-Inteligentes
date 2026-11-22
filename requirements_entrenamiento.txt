@@ -1,0 +1,2 @@
+-r requirements_modelo.txt
+pytest>=8,<10
